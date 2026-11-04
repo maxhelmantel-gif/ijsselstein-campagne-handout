@@ -7,3 +7,5 @@ Gebaseerd op de aangeleverde slides: de drie takeaways uit slide 51, het ondersc
 Statische HTML/CSS met uitsluitend presentatiemoties. Assets uit de door Max aangeleverde workshopbeelden. Contact via e-mail en LinkedIn. Google Fonts: Bricolage Grotesque.
 
 Lokaal bekijken: `python3 -m http.server 4174` vanuit deze map.
+
+Update 4 november 2026: op verzoek promptingtips toegevoegd, gebaseerd op slides 36–37, plus verbeterpunten rond gevoel, herkenbaarheid, realisme en merkconsistentie. Geen oefeningen of generator.
